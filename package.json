@@ -1,0 +1,22 @@
+{
+  "name": "dynamicweb3",
+  "version": "1.0.0",
+  "description": "Ahmed",
+  "main": "hi",
+  "scripts": {
+    "test": "testing"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/n/a.git"
+  },
+  "keywords": [
+    "ahmed123"
+  ],
+  "author": "Ahmed",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/n/a/issues"
+  },
+  "homepage": "https://github.com/n/a#readme"
+}
